@@ -30,5 +30,3 @@ If the user decides to reject all prompts, they will be alerted that it is requi
 
 - URL of deployed application: https://dev-hg20.github.io/js.password-generator/
 - URL of GitHub repository: https://github.com/dev-hg20/js.password-generator.git
-
-BLAH BLAH
