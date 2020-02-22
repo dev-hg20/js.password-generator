@@ -8,23 +8,23 @@ This application generates a random password based on the user-selected criteria
 
 The below image demonstrates the application functionality:
 
-#![password generator demo](/Assets/images/03-javascript-homework-demo.png)
+![password generator demo](/Assets/image/03-javascript-homework-demo.png)
 
 When the user presses the generate password button, the criteria alerts will begin as such:
 
-#![alert demo](/Assets/images/criteria-confirms.PNG)
+![alert demo](/Assets/image/criteria-confirms.PNG)
 
 Users are prompted to input their preferred password length:
 
-#![password length prompt demo](/Assets/images/password-length-prompt.PNG)
+![password length prompt demo](/Assets/image/password-length-prompt.PNG)
 
 If an invalid input occurs, users will be prompted to reinput the length of their preferred password until it satisfies the criteria that it is between 8 and 128 characters:
 
-#![invalid length demo](/Assets/images/invalid-length-alert.PNG)
+![invalid length demo](/Assets/image/invalid-length-alert.PNG)
 
 If the user decides to reject all prompts, they will be alerted that it is required to choose at least one criterion and they should re-select:
 
-#![reselect demo](/Assets/images/invalid-reselect-criteria.PNG)
+![reselect demo](/Assets/image/invalid-reselect-criteria.PNG)
 
 ### Links to deployed application
 
